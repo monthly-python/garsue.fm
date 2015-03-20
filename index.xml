@@ -3,7 +3,7 @@
   <channel>
     <title> on garsue.fm </title>
     <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://localhost:1313/</link>
+    <link>http://garsue.fm/</link>
     <language>ja-JP</language>
     
     
@@ -12,13 +12,13 @@
     <itunes:image href="/cover.png" />
     <item>
       <title>03: Connecting the Dots</title>
-      <link>http://localhost:1313/03/</link>
+      <link>http://garsue.fm/03/</link>
       <pubDate>Fri, 20 Mar 2015 19:06:18 JST</pubDate>
       
-      <guid>http://localhost:1313/03/</guid>
+      <guid>http://garsue.fm/03/</guid>
       <description>
 
-&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://localhost:1313/episodes/03.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
+&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://garsue.fm/episodes/03.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
 
 &lt;p&gt;ムーヴメントが起こりました&lt;/p&gt;
 
@@ -42,13 +42,13 @@
     <itunes:image href="/cover.png" />
     <item>
       <title>02: おくださんに会いたい</title>
-      <link>http://localhost:1313/02/</link>
+      <link>http://garsue.fm/02/</link>
       <pubDate>Sat, 07 Feb 2015 19:27:12 JST</pubDate>
       
-      <guid>http://localhost:1313/02/</guid>
+      <guid>http://garsue.fm/02/</guid>
       <description>
 
-&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://localhost:1313/episodes/02.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34; style=&#34;&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
+&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://garsue.fm/episodes/02.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34; style=&#34;&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
 
 &lt;p&gt;焼肉を食べました&lt;/p&gt;
 
@@ -69,13 +69,13 @@
     <itunes:image href="/cover.png" />
     <item>
       <title>01: マヨネーズ</title>
-      <link>http://localhost:1313/01/</link>
+      <link>http://garsue.fm/01/</link>
       <pubDate>Thu, 11 Dec 2014 19:28:26 JST</pubDate>
       
-      <guid>http://localhost:1313/01/</guid>
+      <guid>http://garsue.fm/01/</guid>
       <description>
 
-&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://localhost:1313/episodes/01.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
+&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://garsue.fm/episodes/01.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
 
 &lt;p&gt;リスナーからの質問に答えました。&lt;/p&gt;
 
