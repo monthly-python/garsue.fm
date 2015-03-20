@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title> on garsue.fm </title>
+    <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/</link>
+    <language>ja-JP</language>
+    
+    
+    <updated>Fri, 20 Mar 2015 19:06:18 JST</updated>
+    
+    <itunes:image href="/cover.png" />
+    <item>
+      <title>03: Connecting the Dots</title>
+      <link>http://localhost:1313/03/</link>
+      <pubDate>Fri, 20 Mar 2015 19:06:18 JST</pubDate>
+      
+      <guid>http://localhost:1313/03/</guid>
+      <description>
+
+&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://localhost:1313/episodes/03.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;ムーヴメントが起こりました&lt;/p&gt;
+
+&lt;h2 id=&#34;show-notes:b51e0ad971d2a7f0d2e8333cd49b51c3&#34;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;サイコパス&lt;/li&gt;
+&lt;li&gt;Swift 1.2&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;ACID制約&lt;/li&gt;
+&lt;li&gt;H.265(HEVC)&lt;/li&gt;
+&lt;li&gt;Python name mangling&lt;/li&gt;
+&lt;li&gt;HBase&lt;/li&gt;
+&lt;li&gt;HHVM&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="http://garsue.fm/episodes/03.mp3" type="audio/mpeg" />
+      <itunes:subtitle>ムーヴメントが起こりました</itunes:subtitle>
+    </item>
+    
+    <itunes:image href="/cover.png" />
+    <item>
+      <title>02: おくださんに会いたい</title>
+      <link>http://localhost:1313/02/</link>
+      <pubDate>Sat, 07 Feb 2015 19:27:12 JST</pubDate>
+      
+      <guid>http://localhost:1313/02/</guid>
+      <description>
+
+&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://localhost:1313/episodes/02.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34; style=&#34;&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;焼肉を食べました&lt;/p&gt;
+
+&lt;h2 id=&#34;show-notes:3edf33a3c6981e724017647c285bb24e&#34;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;おくださん&lt;/li&gt;
+&lt;li&gt;Cloudera Manager&lt;/li&gt;
+&lt;li&gt;ぁっぉともりよし&lt;/li&gt;
+&lt;li&gt;💩製造機&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tabelog.com/tokyo/A1303/A130302/13133556/&#34;&gt;近江亭&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="http://garsue.fm/episodes/02.mp3" type="audio/mpeg" />
+      <itunes:subtitle>焼肉を食べました</itunes:subtitle>
+    </item>
+    
+    <itunes:image href="/cover.png" />
+    <item>
+      <title>01: マヨネーズ</title>
+      <link>http://localhost:1313/01/</link>
+      <pubDate>Thu, 11 Dec 2014 19:28:26 JST</pubDate>
+      
+      <guid>http://localhost:1313/01/</guid>
+      <description>
+
+&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://localhost:1313/episodes/01.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;リスナーからの質問に答えました。&lt;/p&gt;
+
+&lt;h2 id=&#34;show-notes:9976514a2fd85ec66a0f7c0bb8f9f62a&#34;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Atom&lt;/li&gt;
+&lt;li&gt;目玉焼き&lt;/li&gt;
+&lt;li&gt;マヨネーズ&lt;/li&gt;
+&lt;li&gt;コンビニ&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="http://garsue.fm/episodes/01.mp3" type="audio/mpeg" />
+      <itunes:subtitle>リスナーからの質問に答えました。</itunes:subtitle>
+    </item>
+    
+  </channel>
+</rss>
