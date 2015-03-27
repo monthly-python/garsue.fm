@@ -7,7 +7,34 @@
     <language>ja-JP</language>
     
     
-    <updated>Fri, 20 Mar 2015 19:06:18 JST</updated>
+    <updated>Sat, 28 Mar 2015 00:00:00 JST</updated>
+    
+    <itunes:image href="/cover.png" />
+    <item>
+      <title>04: 突撃隣のがーすー</title>
+      <link>http://garsue.fm/04/</link>
+      <pubDate>Sat, 28 Mar 2015 00:00:00 JST</pubDate>
+      
+      <guid>http://garsue.fm/04/</guid>
+      <description>
+
+&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://garsue.fm/episodes/04.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;お宅にお邪魔しました&lt;/p&gt;
+
+&lt;h2 id=&#34;show-notes:ea6ca57e2b11cd721c55720df169800b&#34;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;武蔵小杉&lt;/li&gt;
+&lt;li&gt;最後の🍊&lt;/li&gt;
+&lt;li&gt;オートロック&lt;/li&gt;
+&lt;li&gt;BOY MEETS BOY&lt;/li&gt;
+&lt;li&gt;思い出の帽子&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="http://garsue.fm/episodes/04.mp3" type="audio/mpeg" />
+      <itunes:subtitle>お宅にお邪魔しました</itunes:subtitle>
+    </item>
     
     <itunes:image href="/cover.png" />
     <item>
