@@ -7,7 +7,34 @@
     <language>ja-JP</language>
     
     
-    <updated>Sat, 28 Mar 2015 00:00:00 JST</updated>
+    <updated>Tue, 14 Apr 2015 00:00:00 JST</updated>
+    
+    <itunes:image href="/cover.png" />
+    <item>
+      <title>05: がーすー、AIをつくりたい</title>
+      <link>http://garsue.fm/05/</link>
+      <pubDate>Tue, 14 Apr 2015 00:00:00 JST</pubDate>
+      
+      <guid>http://garsue.fm/05/</guid>
+      <description>
+
+&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://garsue.fm/episodes/05.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;AIのはなしをしました&lt;/p&gt;
+
+&lt;h2 id=&#34;show-notes:1659f2e8ca43739d2cbb52880639ab16&#34;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;DJもりよし&lt;/li&gt;
+&lt;li&gt;Windows 3.1&lt;/li&gt;
+&lt;li&gt;MS DOS&lt;/li&gt;
+&lt;li&gt;野菜&lt;/li&gt;
+&lt;li&gt;AI&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <enclosure url="http://garsue.fm/episodes/05.mp3" type="audio/mpeg" />
+      <itunes:subtitle>AIのはなしをしました</itunes:subtitle>
+    </item>
     
     <itunes:image href="/cover.png" />
     <item>
