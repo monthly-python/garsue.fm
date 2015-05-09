@@ -7,7 +7,46 @@
     <language>ja-JP</language>
     
     
-    <updated>Tue, 14 Apr 2015 00:00:00 JST</updated>
+    <updated>Sat, 09 May 2015 00:00:00 JST</updated>
+    
+    <itunes:image href="/cover.png" />
+    <item>
+      <title>06: 50年後のがーすー</title>
+      <link>http://garsue.fm/06/</link>
+      <pubDate>Sat, 09 May 2015 00:00:00 JST</pubDate>
+      
+      <guid>http://garsue.fm/06/</guid>
+      <description>
+
+&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://garsue.fm/episodes/06.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;Natureっぽいことをはなしました&lt;/p&gt;
+
+&lt;h2 id=&#34;show-notes:43483ff8051a802ebab7d277bef84eb9&#34;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mobageの発音&lt;/li&gt;
+&lt;li&gt;音声合成の技術&lt;/li&gt;
+&lt;li&gt;Nature&lt;/li&gt;
+&lt;li&gt;オオサンショウウオの分布&lt;/li&gt;
+&lt;li&gt;宇宙生物&lt;/li&gt;
+&lt;li&gt;宇宙オオサンショウウオ&lt;/li&gt;
+&lt;li&gt;テキサス&lt;/li&gt;
+&lt;li&gt;点と線と信長の野望&lt;/li&gt;
+&lt;li&gt;溢れるがーすー&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;starring:43483ff8051a802ebab7d277bef84eb9&#34;&gt;Starring&lt;/h2&gt;
+
+&lt;p&gt;がーすー, もりよし, しうまち, shibukawa, turky, よういち&lt;/p&gt;
+
+&lt;h2 id=&#34;place:43483ff8051a802ebab7d277bef84eb9&#34;&gt;Place&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tabelog.com/tokyo/A1304/A130402/13000919/&#34;&gt;赤ちょうちん&lt;/a&gt;&lt;/p&gt;
+</description>
+      <enclosure url="http://garsue.fm/episodes/06.mp3" type="audio/mpeg" />
+      <itunes:subtitle>50年後のがーすー</itunes:subtitle>
+    </item>
     
     <itunes:image href="/cover.png" />
     <item>
