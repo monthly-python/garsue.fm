@@ -7,7 +7,45 @@
     <language>ja-JP</language>
     
     
-    <updated>Sat, 09 May 2015 00:00:00 JST</updated>
+    <updated>Sat, 30 May 2015 00:00:00 JST</updated>
+    
+    <itunes:image href="/cover.png" />
+    <item>
+      <title>07: ガチ回</title>
+      <link>http://garsue.fm/07/</link>
+      <pubDate>Sat, 30 May 2015 00:00:00 JST</pubDate>
+      
+      <guid>http://garsue.fm/07/</guid>
+      <description>
+
+&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://garsue.fm/episodes/07.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;tech系podcastらしいことをはなしました&lt;/p&gt;
+
+&lt;h2 id=&#34;show-notes:ac09d461b805ebda2b53f6a8bfc83e25&#34;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;react.js&lt;/li&gt;
+&lt;li&gt;tech系podcastの定義&lt;/li&gt;
+&lt;li&gt;初任給&lt;/li&gt;
+&lt;li&gt;Apple Watch&lt;/li&gt;
+&lt;li&gt;Build 2015&lt;/li&gt;
+&lt;li&gt;I/O Extended&lt;/li&gt;
+&lt;li&gt;女性エンジニア&lt;/li&gt;
+&lt;li&gt;Go(盆栽)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;starring:ac09d461b805ebda2b53f6a8bfc83e25&#34;&gt;Starring&lt;/h2&gt;
+
+&lt;p&gt;がーすー, やまぐち, にしごおり, ajiyoshi, and &lt;a href=&#34;http://voyagegroup.com/&#34;&gt;VOYAGE GROUP&lt;/a&gt; members&lt;/p&gt;
+
+&lt;h2 id=&#34;place:ac09d461b805ebda2b53f6a8bfc83e25&#34;&gt;Place&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ajito.vg/&#34;&gt;AJITO(の隣の畳の部屋)&lt;/a&gt;&lt;/p&gt;
+</description>
+      <enclosure url="http://garsue.fm/episodes/07.mp3" type="audio/mpeg" />
+      <itunes:subtitle>ガチ回</itunes:subtitle>
+    </item>
     
     <itunes:image href="/cover.png" />
     <item>
