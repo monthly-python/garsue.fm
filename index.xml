@@ -7,7 +7,42 @@
     <language>ja-JP</language>
     
     
-    <updated>Sat, 30 May 2015 00:00:00 JST</updated>
+    <updated>Sat, 06 Jun 2015 00:00:00 JST</updated>
+    
+    <itunes:image href="/cover.png" />
+    <item>
+      <title>09: 電王戦 GARSUE VS CEO</title>
+      <link>http://garsue.fm/09/</link>
+      <pubDate>Sat, 06 Jun 2015 00:00:00 JST</pubDate>
+      
+      <guid>http://garsue.fm/09/</guid>
+      <description>
+
+&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://garsue.fm/episodes/09.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;show-notes:a32e73496f4c5372eed28cad17945de9&#34;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;煽りとは&lt;/li&gt;
+&lt;li&gt;勉強会&lt;/li&gt;
+&lt;li&gt;プレゼン&lt;/li&gt;
+&lt;li&gt;libgdx&lt;/li&gt;
+&lt;li&gt;機械学習&lt;/li&gt;
+&lt;li&gt;麻雀&lt;/li&gt;
+&lt;li&gt;AI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;starring:a32e73496f4c5372eed28cad17945de9&#34;&gt;Starring&lt;/h2&gt;
+
+&lt;p&gt;がーすー, やまぐち, shiumachi&lt;/p&gt;
+
+&lt;h2 id=&#34;place:a32e73496f4c5372eed28cad17945de9&#34;&gt;Place&lt;/h2&gt;
+
+&lt;p&gt;やまぐちんち&lt;/p&gt;
+</description>
+      <enclosure url="http://garsue.fm/episodes/09.mp3" type="audio/mpeg" />
+      <itunes:subtitle>kill yone</itunes:subtitle>
+    </item>
     
     <itunes:image href="/cover.png" />
     <item>
