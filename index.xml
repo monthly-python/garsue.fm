@@ -7,7 +7,39 @@
     <language>ja-JP</language>
     
     
-    <updated>Sat, 06 Jun 2015 00:00:00 JST</updated>
+    <updated>Fri, 04 Mar 2016 00:00:00 JST</updated>
+    
+    <itunes:image href="/cover.png" />
+    <item>
+      <title>10: しうまち、母校へ帰る</title>
+      <link>http://garsue.fm/10/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 JST</pubDate>
+      
+      <guid>http://garsue.fm/10/</guid>
+      <description>
+
+&lt;p&gt;&lt;audio preload=&#34;none&#34; src=&#34;http://garsue.fm/episodes/10.mp3&#34; type=&#34;audio/mp3&#34; controls=&#34;controls&#34;&gt;&lt;/audio&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;show-notes:308567cfbd1525551cff24e29a6013b6&#34;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;中高生&lt;/li&gt;
+&lt;li&gt;クビとは&lt;/li&gt;
+&lt;li&gt;文系理系&lt;/li&gt;
+&lt;li&gt;miyagawaパイセン&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;starring:308567cfbd1525551cff24e29a6013b6&#34;&gt;Starring&lt;/h2&gt;
+
+&lt;p&gt;がーすー, shiumachi, akisute, r_rudi&lt;/p&gt;
+
+&lt;h2 id=&#34;place:308567cfbd1525551cff24e29a6013b6&#34;&gt;Place&lt;/h2&gt;
+
+&lt;p&gt;北海道&lt;/p&gt;
+</description>
+      <enclosure url="http://garsue.fm/episodes/10.mp3" type="audio/mpeg" />
+      <itunes:subtitle>bokoh</itunes:subtitle>
+    </item>
     
     <itunes:image href="/cover.png" />
     <item>
